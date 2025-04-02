@@ -8,8 +8,13 @@ To build a sentiment analysis tool that analyzes YouTube video comments and clas
 
 ### Objectives
 ✅ Fetch comments from a YouTube video using YouTube API
+
 ✅ Preprocess comments (cleaning, tokenization, etc.)
+
 ✅ Perform sentiment analysis using an NLP model
+
 ✅ Visualize the results (charts, statistics)
+
 ✅ Store results in a file or database
+
 ✅ Make the code modular and reusable
